@@ -1,0 +1,15 @@
+E:\СМК\Практика\21.05_HashSet\21.05_HashSet\obj\Debug\21.05_HashSet.csprojAssemblyReference.cache
+E:\СМК\Практика\21.05_HashSet\21.05_HashSet\obj\Debug\21.05_HashSet.csproj.CoreCompileInputs.cache
+E:\СМК\Практика\21.05_HashSet\21.05_HashSet\bin\Debug\21.05_HashSet.exe.config
+E:\СМК\Практика\21.05_HashSet\21.05_HashSet\bin\Debug\21.05_HashSet.exe
+E:\СМК\Практика\21.05_HashSet\21.05_HashSet\bin\Debug\21.05_HashSet.pdb
+E:\СМК\Практика\21.05_HashSet\21.05_HashSet\obj\Debug\21.05_HashSet.exe
+E:\СМК\Практика\21.05_HashSet\21.05_HashSet\obj\Debug\21.05_HashSet.pdb
+F:\Программирование\C#\21.05_HashSet\21.05_HashSet\bin\Debug\21.05_HashSet.exe.config
+F:\Программирование\C#\21.05_HashSet\21.05_HashSet\bin\Debug\21.05_HashSet.exe
+F:\Программирование\C#\21.05_HashSet\21.05_HashSet\bin\Debug\21.05_HashSet.pdb
+F:\Программирование\C#\21.05_HashSet\21.05_HashSet\obj\Debug\21.05_HashSet.csproj.AssemblyReference.cache
+F:\Программирование\C#\21.05_HashSet\21.05_HashSet\obj\Debug\21.05_HashSet.csproj.SuggestedBindingRedirects.cache
+F:\Программирование\C#\21.05_HashSet\21.05_HashSet\obj\Debug\21.05_HashSet.csproj.CoreCompileInputs.cache
+F:\Программирование\C#\21.05_HashSet\21.05_HashSet\obj\Debug\21.05_HashSet.exe
+F:\Программирование\C#\21.05_HashSet\21.05_HashSet\obj\Debug\21.05_HashSet.pdb
